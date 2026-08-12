@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Thiruselvan", 
+    "age": 20, 
+    "marks": 40
+  },
+  {
+    "name": "Alex", 
+    "age": 19, 
+    "marks": 50
+  },
+  {
+    "name": "Zeus", 
+    "age": 18, 
+    "marks": 60
+  },
+  {
+    "name": "Poseidon", 
+    "age": 30, 
+    "marks": 70
+  },
+  {
+    "name": "ThiruXD", 
+    "age": 100, 
+    "marks": 999
+  },
+  {
+    "name": "Ares", 
+    "age": 70, 
+    "marks": 99
+  }
+]

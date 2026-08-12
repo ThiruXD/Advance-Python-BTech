@@ -1,4 +1,4 @@
-# 📚 Advanced Python: Computer Vision & Video Processing
+# 📚 Advanced Python (5th sem - BTech)
 
 This repository serves as a centralized hub for university study notes, core curriculum breakdowns, and hands-on laboratory code implementations for the course **Advanced Python (Course Code: 10ABTCE24513)**.
 

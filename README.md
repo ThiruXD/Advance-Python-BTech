@@ -15,8 +15,6 @@ The primary objective of this course is to develop proficient skills in foundati
 
 ---
 
----
-
 ## 📂 Repository File Tree
 
 ```text
@@ -116,7 +114,9 @@ pip install -r requirements.txt
 
 ## 👥 Credits & Contributors
 
-Acknowledgment to the core student contributor who compiled, structured, and implemented these course resources:
+Acknowledgment to the core student/mentor contributor who compiled, structured, and implemented these course resources:
+
+* **Prof. kamaladharan (faculty)**
 
 * **Thiruselvan (ThiruXD)**
   * 🌐 GitHub: [@ThiruXD](https://github.com/ThiruXD)
@@ -133,6 +133,6 @@ Acknowledgment to the core student contributor who compiled, structured, and imp
 * *Python for Data Analysis (3rd Edition)* — Wes McKinney
 
 ### Documentation Web Portals
-* [OpenCV Docs](https://opencv.org) | [Python Manuals](https://python.org) | [NumPy Guide](https://numpy.org) | [Pandas API](https://pydata.org)
+* [OpenCV Docs](https://opencv.org) | [Python Manuals](https://python.org) | [NumPy Guide](https://numpy.org) 
 
 

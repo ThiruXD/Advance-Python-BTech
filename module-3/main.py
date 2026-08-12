@@ -8,7 +8,7 @@ json_file_path = Path(__file__).parent / "db" / "students.json"
 
 while True:
     try:
-        print("\n=== Choose Any Options === \nOption 1: Basic Calculation \nOption 2: Square Root \nOption 3: Import Basic Variable & Get in-build libary examples \nOption 4: To execute json libary \nOption 0: To exit")
+        print("\n=== Choose Any Options === \nOption 1: Basic calculation \nOption 2: Square-root \nOption 3: Import basic variable & Get in-build libary examples \nOption 4: To execute json libary \nOption 5: To view libary modules \nOption 0: To exit")
         option = int(input("Enter your operation: "))
         if option == 0:
             break
@@ -30,6 +30,10 @@ while True:
             print("\n=== 4. Json Libary ===")
             table_txt = json_table(json_file_path)
             print(table_txt)
+        elif option == 5:
+            print("\n=== 5. libary Modules ===")
+            lib_name = input("\nEnter libary name (ex: math, os, tkinter, numpy): ")
+            print(dir(lib_name))
         else:
             print(f"\nERROR: option {option} does't exist...")
     except ValueError:

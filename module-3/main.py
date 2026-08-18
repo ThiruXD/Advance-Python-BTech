@@ -37,6 +37,6 @@ while True:
         else:
             print(f"\nERROR: option {option} does't exist...")
     except ValueError:
-        print(f"Error: Characters not alllowed")
+        print(f"Error: Characters not allowed")
     except Exception as err:
         print(f"Error: {err}")
